@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+.d{
+    width: auto;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(92, 71, 31);
+    border: solid white;
+    border-radius: 10px;
+}
+.i{
+    width: auto;
+    height: 120px;
+    text-align: center;
+    background-color: hex(#ddd);
+    border: solid skyblue;
+    border-radius: 10px;
+}
+.v{
+    width: auto;
+    height: 200px;
+    text-align: center;
+    background-color: skyblue;
+    border: solid white;
+    border-radius: 10px;
+}

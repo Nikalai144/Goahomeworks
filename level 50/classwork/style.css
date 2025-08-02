@@ -1,0 +1,23 @@
+body{
+    background-color: yellowgreen;
+}
+.h-con{
+    font-size: 1,5rem;
+    text-align: center;
+    background-color: rgb(100,100,100);
+    border: solid black;
+    color: black;
+    border-radius: 10px;
+}
+.p-container{
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(150,150,150);
+    border: solid black;
+    color: black;
+    border-radius: 10px;
+}
+.b-container{
+   background-color: rgb(200,250,50);
+   color: cyan;
+}
