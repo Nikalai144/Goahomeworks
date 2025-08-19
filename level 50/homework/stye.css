@@ -1,6 +1,13 @@
 body{
     background-color: black;
 }
+.h{
+    text-align: center;
+    background-color: blueviolet;
+    border: solid white;
+    border-radius: 10px;
+    color: hex(#addfad);
+}
 .d{
     width: auto;
     height: 100px;
@@ -24,4 +31,10 @@ body{
     background-color: skyblue;
     border: solid white;
     border-radius: 10px;
+}
+.pp{
+    color: rgb(92, 71, 31);
+}
+.p{
+    color: hex(#dafeaf)
 }
